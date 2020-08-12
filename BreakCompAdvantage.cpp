@@ -1,6 +1,13 @@
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
+
+/*
+    This was a little program I wrote for fun. I learned about "Comparative Advantage" in American Heritage
+    , and I was told that it isn't possible for someone to have a comparative advantage in everything.
+    
+    For info about comparative advantage --> https://www.econlib.org/library/Topics/Details/comparativeadvantage.html
+*/
 using namespace std;
 typedef unsigned long li;
 float MattOppCostFood(float& foodProdMatt, float& techProdMatt){
